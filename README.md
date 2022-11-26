@@ -1,2 +1,13 @@
 # Project-X
-X-Bot is a bot which can upload, download, compress telegram-files
+
+v1.0.0
+
+Check `x-bot.py` for more informations
+
+### Credits 
+
+- Me
+- Telegram
+- Pyrogram
+- Telethon
+- X
